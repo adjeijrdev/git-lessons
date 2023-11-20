@@ -15,51 +15,5 @@ header{
 header h1{
     color: tomato !important;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-
-}
-header{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
-header .links ul li{
-    display: inline-block;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 1em;
-    font-weight: bolder;
-    margin-right: 2em;
-    color: white;
-}
-button{
-    width:8.8rem;
-    height: 2.2rem;
-    border-radius: 3em;
-    font-size: 1.3em;
-    border: none;
-    background-color: tomato !important;
-    color: #fff;
-    padding: .3em;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bolder;
-}
-.main{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    gap: 0;
-}
-
-.main .left{
-    width: 23rem;
-    height: 40rem;
-    border-radius: 3em;
-    background-color: rgb(253, 251, 248);
-    margin: 3% 3%;
-}
-.main .right{
-    width: 50rem;
-    height: 40rem;
-    border-radius: 3em;
-    background-color: rgb(253, 251, 248);
-    margin: 0% 3%;
+    
 }
