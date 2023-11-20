@@ -1,5 +1,12 @@
 *{
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    width: 100%;
+    min-height: 5rem;
 }
 header h1{
     color: tomato !important;
@@ -17,15 +24,18 @@ header .links ul li{
     font-size: 1em;
     font-weight: bolder;
     margin-right: 2em;
+    color: white;
 }
 button{
-    width: max-content;
-    height: fit-content;
+    width:8.8rem;
+    height: 2.2rem;
     border-radius: 3em;
-    font-size: 1.4em;
+    font-size: 1.3em;
     border: none;
     background-color: tomato !important;
     color: #fff;
     padding: .3em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
 }
     
