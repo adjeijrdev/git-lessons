@@ -63,3 +63,13 @@ button{
     background-color: rgb(253, 251, 248);
     margin: 0% 3%;
 }
+.search-button{
+    width: 55%;
+    height: 20%;
+}
+.search{
+    width: 58%;
+    height: 2.4em;
+    background-color: gray;
+    border-radius: 4em;
+}
